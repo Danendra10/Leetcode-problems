@@ -1,0 +1,15 @@
+project(LEETCODE)
+cmake_minimum_required(VERSION 3.0)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(1 1_Two_Sum_Problems.cpp)
+add_executable(2 2_Two_Sum_Problems.cpp)
+# add_executable(3 3_Longest_Substring_Without_Repeating_Characters.cpp)
+# add_executable(4 4_Median_of_Two_Sorted_Arrays.cpp)
+# add_executable(5 5_Longest_Palindromic_Substring.cpp)
+# add_executable(6 6_ZigZag_Conversion.cpp)
+# add_executable(7 7_Reverse_Integer.cpp)
+# add_executable(8 8_String_to_Integer.cpp)
+add_executable(9 9_Palindrome_Number.cpp)
+add_executable(27 27_Remove_Element.cpp)
